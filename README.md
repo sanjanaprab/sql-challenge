@@ -1,1 +1,1 @@
-# sql-challenge
+#  The third data analysis question was skipped due to issues with the Dept_Manager table. Specifically, an error occurred during data import where department numbers were mistakenly placed in the emp_no column, leading to a violation of the foreign key constraint with the Employees table. As a result, accurate data for department managers could not be retrieved. Unfortunately, due to time constraits, I had to move forward with the project in order to meet the submission deadline. 
